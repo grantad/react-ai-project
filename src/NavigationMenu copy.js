@@ -7,8 +7,8 @@ function NavigationMenu() {
       <ul className="menuList">
         <li className="menuItem"><a href="#home">Home</a></li>
         <li className="menuItem"><a href="#about">About</a></li>
-        <li className="menuItem"><a href="#services">Services</a></li>
-        <li className="menuItem"><a href="#contact">Contact</a></li>
+        <li className="menuItem"><a href="#services">Characters</a></li>
+        <li className="menuItem"><a href="#contact">Origins</a></li>
       </ul>
     </nav>
   );
